@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-labelledby="title desc">
+  <title id="title">BEALE — Vos clés. Votre signature.</title>
+  <desc id="desc">Présentation monochrome de Beale avec une illustration stylisée de son appareil de signature.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f6f7f7"/><stop offset="1" stop-color="#cbd0d3"/></linearGradient>
+    <linearGradient id="body" x2="1" y2="0"><stop stop-color="#131517"/><stop offset=".7" stop-color="#282c2f"/><stop offset="1" stop-color="#0c0d0e"/></linearGradient>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#9fa5a9"/><stop offset=".5" stop-color="#42474a"/><stop offset="1" stop-color="#b2b7ba"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1440" height="560" rx="28" fill="url(#bg)"/>
+  <ellipse cx="1140" cy="220" rx="420" ry="330" fill="url(#light)"/>
+  <path d="M65 68H1375" stroke="#aeb5b9" stroke-width="1"/>
+  <g fill="#171a1c" font-family="Arial,Helvetica,sans-serif">
+    <text x="80" y="48" font-size="12" letter-spacing="5">HARDWARE WALLET · SOLANA</text>
+    <text x="80" y="221" font-size="112" font-weight="700" letter-spacing="18">BEALE</text>
+    <text x="86" y="285" font-size="35" letter-spacing="-1">Vos clés. Votre signature.</text>
+    <text x="86" y="339" font-size="18" fill="#535b60">Un appareil dédié pour vérifier, confirmer et signer.</text>
+    <rect x="86" y="390" width="126" height="34" rx="17" fill="none" stroke="#939da3"/>
+    <text x="149" y="412" text-anchor="middle" font-size="12">SOLANA</text>
+    <rect x="225" y="390" width="158" height="34" rx="17" fill="none" stroke="#939da3"/>
+    <text x="304" y="412" text-anchor="middle" font-size="12">POLYMARKET PERPS</text>
+    <text x="86" y="502" font-size="12" letter-spacing="3" fill="#586166">CONÇU AUTOUR DU M5STICKC PLUS2</text>
+  </g>
+  <ellipse cx="1115" cy="478" rx="124" ry="15" fill="#777f83" opacity=".18"/>
+  <g transform="translate(1005 92) rotate(9 102 175)">
+    <rect x="10" y="8" width="196" height="350" rx="27" fill="#141719" stroke="url(#edge)" stroke-width="3"/>
+    <rect width="196" height="350" rx="27" fill="url(#body)" stroke="url(#edge)" stroke-width="2"/>
+    <text x="98" y="28" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="6" fill="#e5e8ea">BEALE</text>
+    <rect x="15" y="44" width="166" height="245" rx="9" fill="#eceeef"/>
+    <rect x="15" y="44" width="166" height="24" rx="8" fill="#131617"/>
+    <text x="27" y="60" font-family="Arial,Helvetica,sans-serif" font-size="9" fill="#eef1f3">VÉRIFIER L’OPÉRATION</text>
+    <g fill="#171a1c" font-family="Arial,Helvetica,sans-serif">
+      <text x="29" y="102" font-size="10" fill="#59646a">SOLANA · MAINNET</text>
+      <text x="28" y="142" font-size="20" font-weight="700">Votre décision.</text>
+      <path d="M29 163H167" stroke="#bcc3c7"/>
+      <text x="29" y="192" font-size="11">Vérifier sur l’appareil.</text>
+      <text x="29" y="211" font-size="11">Confirmer avec le PIN.</text>
+      <rect x="28" y="238" width="140" height="29" rx="6" fill="#16191b"/>
+      <text x="98" y="257" text-anchor="middle" font-size="10" fill="#fff">MAINTENIR A</text>
+    </g>
+    <circle cx="98" cy="318" r="15" fill="#131516" stroke="#666e73"/>
+    <rect x="202" y="72" width="7" height="34" rx="3" fill="#ffab5c"/>
+  </g>
+</svg>

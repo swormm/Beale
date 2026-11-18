@@ -1,0 +1,18 @@
+# Ce dépôt est réservé à la présentation et à la documentation.
+release-assets/
+*.bin
+*.elf
+*.map
+*.pem
+*.key
+*.p12
+*.pfx
+*.zip
+*.log
+.env*
+*backup*
+*dump*
+node_modules/
+build*/
+.DS_Store
+Thumbs.db
